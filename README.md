@@ -1,7 +1,7 @@
 # Cypress Documentation [![Discord chat](https://img.shields.io/badge/chat-on%20Discord-brightgreen)](https://on.cypress.io/discord) [![first-timers-only](http://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://github.com/cypress-io/cypress-documentation/labels/first-timers-only)
 
 ![Cypress Documentation Preview](/static/img/cypress-docs.png)
-
+# Vijaya checked the cypress code
 ## CI status
 
 [![CircleCI](https://circleci.com/gh/cypress-io/cypress-documentation/tree/main.svg?style=svg)](https://circleci.com/gh/cypress-io/cypress-documentation/tree/main)
